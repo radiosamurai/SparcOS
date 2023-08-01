@@ -1,0 +1,16 @@
+root:x:0:root
+sys:x:3:bin,SparcOS
+network:x:90:SparcOS
+power:x:98:SparcOS
+adm:x:999:SparcOS
+wheel:x:998:SparcOS
+uucp:x:987:SparcOS
+optical:x:990:SparcOS
+rfkill:x:983:SparcOS
+video:x:986:SparcOS
+storage:x:988:SparcOS
+audio:x:995:SparcOS
+users:x:985:SparcOS
+nopasswdlogin:x:966:SparcOS
+autologin:x:967:SparcOS
+SparcOS:x:1000:
